@@ -1,0 +1,16 @@
+Les parties de codes emruntées sont clairements inclus en commentaire dans le code.
+La seule partie qui a été complètement empruntée est l'algorithme de Simplex Noise
+La fonction FBM a été inspiré d'un blog dont je donne le lien en commentaire, mais je l'ai beaucoup changé
+La fonction Phong a été prise de mon ancien TP en infographie, mais je l'ai aussi beaucoup changé
+
+Pépins : J'ai perdu asser de temps à essayer d'implémenter des nuages sur ma planète, mais je n'arrivais pas à  
+trouver le bon noise pour les générer correctement. J'ai trouvé beaucoup d'implémentations en ligne que je 
+pouvais emprunter, mais ça  n'aurait pas été pertinent si je trouvais pas une contribution originale de ma part.
+J'ai finis par abandoner l'idée, puisque je commençais à manquer de temps, même si j'ai commencé ce projet très tôt.
+En plus, les nuages auraient caché un peu la planète, ce qui n'est pas désirable si je veux montrer mes résultats.
+
+lien Vidéo de la planète, avec mes variables configuré pour qu'elle ressemble à la terre, qui fait une rotation : 
+
+https://streamable.com/z32ort
+
+
